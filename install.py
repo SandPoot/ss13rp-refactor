@@ -39,7 +39,7 @@ try:
 
     print("Installed!\n")
     print("Starting...\n")
-    subprocess.Popen("\""+install_path+"ss13rp.exe\"")
+    subprocess.Popen("\""+install_path+"ss13rp-refactor.exe\"")
     print("Started!\n")
     time.sleep(1)
 except:
