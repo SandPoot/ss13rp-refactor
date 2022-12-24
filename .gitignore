@@ -1,0 +1,8 @@
+# Ignores vs code config
+.vscode/
+# Ignores local cached file
+__pycache__/
+
+# Ignore build cache
+build/
+*.spec
