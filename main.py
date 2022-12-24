@@ -76,7 +76,7 @@ while True:
 
 			mode = get_content("mode", "dynamic")
 			activity["state"] = map + ", " + mode
-			activity["buttons"] = [{"label": "Join", "url": "byond://" + str(status["ip"]) + ":" + str(status["port"])}, {"label": "Github (Rich Presence)", "url": "about:blank"}]
+			activity["buttons"] = [{"label": "Join", "url": "byond://" + str(status["ip"]) + ":" + str(status["port"])}, {"label": "Github (Rich Presence)", "url": "https://github.com/SandPoot/ss13rp-refactor"}]
 
 			popcap = get_content("popcap", "120")
 			popcap = "120" if(int(popcap) <= 0) else popcap
