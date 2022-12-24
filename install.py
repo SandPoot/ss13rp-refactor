@@ -22,7 +22,7 @@ try:
     print("Installing...\n")
     url = "https://github.com/SandPoot/ss13rp-refactor/raw/master/dist/ss13rp-refactor.exe"
     response = requests.get(url, stream=True)
-    handle = open(install_path+"ss13rp.exe", "wb")
+    handle = open(install_path+"ss13rp-refactor.exe", "wb")
     dur = 0
     for chunk in response.iter_content(chunk_size=512):
         if chunk:
