@@ -1,0 +1,6 @@
+pyinstaller
+pypresence
+wheel
+pywin32
+psutil
+requests
