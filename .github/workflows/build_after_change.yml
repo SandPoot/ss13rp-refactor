@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Install requirements and run
         run: |
-          Build.bat
+          .\Build.bat
       - name: Commit and Push
         continue-on-error: true
         run: |
