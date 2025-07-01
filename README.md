@@ -31,6 +31,6 @@ Afterwards you can just run main.py
 
 ## Installation
 
-Download the installer [here](https://github.com/qwertyquerty/ss13rp/raw/master/dist/install.exe) and run it. If you don't trust me, because no one seems to, compile it yourself. You could use something like pyinstaller.
+Download the installer [here](https://github.com/SandPoot/ss13rp-refactor/releases) and run it. If you don't trust me, because no one seems to, compile it yourself. You could use something like pyinstaller.
 
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
